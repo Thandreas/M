@@ -1,0 +1,3 @@
+##
+Add column that lags the date column by 30 days
+= Date.AddDays([Date], -30)
