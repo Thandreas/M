@@ -1,0 +1,3 @@
+// Kombinere en tekst- og tallkolonne til en kolonne
+
+Number.ToText([Month],"00") & "-" & Number.ToText([Year])
